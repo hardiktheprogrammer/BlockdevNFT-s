@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "BlockdevNFT's\public\index.html"
+status = 200
